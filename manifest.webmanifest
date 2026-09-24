@@ -1,7 +1,7 @@
 {
-  "name": "Pacebeat",
-  "short_name": "Pacebeat",
-  "description": "Local-first training analysis for your Garmin .fit and .gpx activities.",
+  "name": "Lapline",
+  "short_name": "Lapline",
+  "description": "Training analysis that stays on your device. Drop in the .fit and .gpx files your watch or bike computer records: no account, nothing uploaded.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
